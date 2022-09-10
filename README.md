@@ -16,8 +16,8 @@ showing the auto generated transaction id, date, time, amount,
 type of transaction and account number thus providing easy
 access to the data for the customer. Users can also view their
 account balance.
-Features:
-Account Balance
-Money Withdrawal
-Account Ministatement
-Account Pin Change
+# Features:
+- Account Balance
+- Money Withdrawal
+- Account Ministatement
+- Account Pin Change
